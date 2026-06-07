@@ -33,6 +33,17 @@ Technical review is available only under NDA.
 
 Patent pending / unpublished application
 
+## Inventor Background
+
+The inventor is a former Samsung Electronics Master-level semiconductor engineer with 26 years of experience in thermal engineering, mechanical reliability, package/system integration, and high-performance electronics.
+
+The inventor’s work focuses on solving physical bottlenecks in advanced semiconductor systems, including warpage, thermal stress, interconnect density, board-level integration, manufacturability, and packaging cost structure.
+
+This patent-pending CoWoP realization architecture is derived from practical semiconductor engineering experience and a broader advanced-packaging IP portfolio.
+
+Technical details are available only under NDA.
+
+
 ## Contact
 
 jhcho9494@naver.com
