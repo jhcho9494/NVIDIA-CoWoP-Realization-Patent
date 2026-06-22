@@ -20,7 +20,7 @@ The public disclosure is intentionally limited to the problem domain:
 
 The implementation architecture, claim language, process flow, structural drawings, and technical details are not publicly disclosed.
 
-Technical review is available without any constranits.
+Technical discussins are available anytime through Email.
 
 ## Intended Readers
 
