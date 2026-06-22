@@ -20,6 +20,7 @@ The public disclosure is intentionally limited to the problem domain:
 * high-density interconnect scalability
 * manufacturable board-level integration for next-generation accelerator modules
 * Glass interposer solution with 510mm 515mm dimension.
+* Completely eliminating IBIDEN's ABF substrate.
 
 The implementation architecture, claim language, process flow, structural drawings, and technical details are not publicly disclosed.
 
