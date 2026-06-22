@@ -46,7 +46,7 @@ The inventor’s work focuses on solving physical bottlenecks in advanced semico
 
 This patent-pending CoWoP realization architecture is derived from practical semiconductor engineering experience and a broader advanced-packaging IP portfolio.
 
-Technical details are available upon contacting through Email.
+Technical discussins are available upon contacting through Email.
 
 
 ## Contact
