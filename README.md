@@ -2,7 +2,7 @@
 Unpublished patent-pending architecture for practical NVIDIA-class CoWoP realization in AI/HPC GPU systems.
 # NVIDIA CoWoP Realization Patent
 
-By CoWoP, I mean the Advanced Packaging architecture with completely eliminating ABF substrate
+By CoWoP, I mean the Advanced Packaging architecture with completely eliminating ABF substrate.
 This repository is a public notice of an unpublished patent-pending architecture directed to practical CoWoP realization for NVIDIA-class AI/HPC GPU systems.
 
 The patent application targets a structural bottleneck in CoWoP deployment that is not solved merely by making the entire PCB more substrate-like.
@@ -33,6 +33,8 @@ Technical discussins are available anytime through Email.
 * TSMC
 * Samsung Electronics
 * AMD for developing innovative AI Advance Packiging
+* SPIL
+* ASE
 
 ## Status
 
