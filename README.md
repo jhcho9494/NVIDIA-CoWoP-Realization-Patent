@@ -19,6 +19,7 @@ The public disclosure is intentionally limited to the problem domain:
 * board-level warpage and yield risk
 * high-density interconnect scalability
 * manufacturable board-level integration for next-generation accelerator modules
+* Glass interposer solution with 510mm 515mm dimension.
 
 The implementation architecture, claim language, process flow, structural drawings, and technical details are not publicly disclosed.
 
