@@ -51,5 +51,6 @@ Technical details are available only under NDA.
 
 ## Contact
 
-jhcho9494@naver.com
+jhcho@cools.co.kr
+
 Mobile 82 10 2280 9414
