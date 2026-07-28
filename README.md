@@ -3,10 +3,13 @@ Unpublished patent-pending architecture for practical NVIDIA-class CoWoP realiza
 # NVIDIA CoWoP Realization Patent
 
 By CoWoP, I mean the Advanced Packaging architecture with completely eliminating ABF substrate.
+
 This repository is a public notice of an unpublished patent-pending architecture directed to practical CoWoP realization for NVIDIA-class AI/HPC GPU systems.
 
 The patent application targets a structural bottleneck in CoWoP deployment that is not solved merely by making the entire PCB more substrate-like.
+
 Also, these patents present complete solutions for Rubin-Ultra realizing 4-GPUs interposer configuration instead of 2-GPUs.
+
 Plus, Glass Interposer solutions with perfect via fill reliability is including.
 
 ## Public Disclosure Scope
@@ -43,6 +46,23 @@ Technical discussins are available anytime through Email.
 ## Status
 
 Patent pending / unpublished application
+
+## Intellectual property and transaction options
+
+The technologies and architectures described in this repository are protected by pending patent applications and associated proprietary know-how of Cools Inc.
+
+Cools is open to structured discussions with qualified strategic partners. Depending on the field, territory, scope, and commercial purpose, potential transaction structures may include:
+
+- exclusive or non-exclusive patent licensing;
+- field-of-use or territory-limited rights;
+- technology and process-architecture transfer;
+- joint development and commercialization;
+- strategic investment or transfer of the relevant technology business; and
+- where commercially appropriate, assignment or transfer of the relevant patent applications and patent rights themselves.
+
+**Negotiations are not limited to a licence. Where the transaction purpose and conditions are appropriate, the relevant patent portfolio itself may be included in the transaction.**
+
+Publication of this repository does not constitute an offer, licence, waiver, or permission to practise the disclosed technology. Any transaction is subject to technical and legal due diligence and a definitive written agreement.
 
 ## Inventor Background
 
